@@ -2,6 +2,7 @@
 
 I enjoy building websites. With every line of code , I strive to make the web the most beautiful and an easiest platform to jump 
 in and out.
+I am currently working as UX/UI designer.
 I love to listen music🎵 and travelling🚲. 
 
 ✔️I do Build a Fully responsive website front end using HTML,CSS,Bootrasp and Js.
